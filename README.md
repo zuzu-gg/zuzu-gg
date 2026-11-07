@@ -35,3 +35,15 @@ Esta es una tabla que contiene los badges de las herramientas y tecnologías que
 - **Enlaces:**
   - [Ver repositorio en GitHub](https://github.com/polipopi/MuseoMunicipal_Web)
   - [Visitar sitio web](https://polipopi.github.io/MuseoMunicipal_Web/)
+
+---
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub de zuzu-gg](https://github-readme-stats.vercel.app/api?username=zuzu-gg&show_icons=true&theme=radial&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=zuzu-gg&layout=compact&theme=radial&hide_border=true)
+
+- 🎓 **Actualmente:** Estudio Ingeniería en Ciencia de Datos e Inteligencia Artificial. Me gusta trabajar en proyectos y seguir aprendiendo sobre programación, especialmente desarrollo web con HTML, CSS, SCSS y JavaScript, además de herramientas como Git y GitHub.
