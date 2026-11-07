@@ -42,7 +42,8 @@ Esta es una tabla que contiene los badges de las herramientas y tecnologías que
 
 A través de mis proyectos y trabajos de la universidad, he tenido la oportunidad de utilizar Git y GitHub para organizar mi código, guardar cambios y trabajar en equipo. He participado en proyectos de desarrollo web, análisis de datos y bases de datos.
 
-### 🗂️ Repositorios y Proyectos Destacados en mi Historial
+### 🗂️ Repositorios y Proyectos Destacados en mi Historial (mostrados en la siguiente imagen)
+![Dashboard de GitHub](github.png)
 
 - **Desarrollo Web Frontend (DAWM):**
   - `MuseoMunicipal_Web`: Sitio web del Museo Municipal desarrollado con **HTML5, CSS3, JavaScript y SCSS**.
