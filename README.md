@@ -58,3 +58,11 @@ A través de mis proyectos y trabajos de la universidad, he tenido la oportunida
   - `Clinica-Estetica`: Participación en el desarrollo de la parte de base de datos utilizando **SQL**.
 
 - 📚 **Actualmente:** Sigo organizando, mejorando la presentación de mis proyectos en GitHub, practicando programación y explorando nuevas herramientas para mejorar mis habilidades en desarrollo web y análisis de datos.
+
+---
+
+## Contacto
+
+
+- **Correo Académico:** [zutorres@espol.edu.ec](mailto:zutorres@espol.edu.ec)
+- **GitHub:** [zuzu-gg](https://github.com/zuzu-gg)
