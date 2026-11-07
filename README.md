@@ -38,12 +38,22 @@ Esta es una tabla que contiene los badges de las herramientas y tecnologías que
 
 ---
 
----
+## 📈 Experiencia y Actividad en GitHub
 
-## 📈 Estadísticas de GitHub
+A través de mis proyectos y trabajos de la universidad, he tenido la oportunidad de utilizar Git y GitHub para organizar mi código, guardar cambios y trabajar en equipo. He participado en proyectos de desarrollo web, análisis de datos y bases de datos.
 
-![Estadísticas de GitHub de zuzu-gg](https://github-readme-stats.vercel.app/api?username=zuzu-gg&show_icons=true&theme=radial&hide_border=true)
+### 🗂️ Repositorios y Proyectos Destacados en mi Historial
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=zuzu-gg&layout=compact&theme=radial&hide_border=true)
+- **Desarrollo Web Frontend (DAWM):**
+  - `MuseoMunicipal_Web`: Sitio web del Museo Municipal desarrollado con **HTML5, CSS3, JavaScript y SCSS**.
+  - `Clima-Guayaquil`: Aplicación web para consultar el clima.
+  - `dawm-cv` y laboratorios prácticos: Ejercicios y prácticas de desarrollo web utilizando **Flexbox, CSS Grid y JSON**.
+  - `ecoruta`: Proyecto del profesor en el que colaboré realizando tareas, compartiendo cambios y enviando *Pull Requests*.
 
-- 🎓 **Actualmente:** Estudio Ingeniería en Ciencia de Datos e Inteligencia Artificial. Me gusta trabajar en proyectos y seguir aprendiendo sobre programación, especialmente desarrollo web con HTML, CSS, SCSS y JavaScript, además de herramientas como Git y GitHub.
+- **Análisis de Datos y Estadística:**
+  - `proyecto-estadistica1`: Proyecto realizado en **R** para trabajar con datos estadísticos y compartir los resultados con mi equipo.
+
+- **Bases de Datos y Proyectos Colaborativos:**
+  - `Clinica-Estetica`: Participación en el desarrollo de la parte de base de datos utilizando **SQL**.
+
+- 📚 **Actualmente:** Sigo organizando, mejorando la presentación de mis proyectos en GitHub, practicando programación y explorando nuevas herramientas para mejorar mis habilidades en desarrollo web y análisis de datos.
