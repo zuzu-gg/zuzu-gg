@@ -64,5 +64,5 @@ A través de mis proyectos y trabajos de la universidad, he tenido la oportunida
 ## Contacto
 
 
-- **Correo Académico:** [zutorres@espol.edu.ec](mailto:zutorres@espol.edu.ec)
+- **Correo Académico:** `zutorres@espol.edu.ec`
 - **GitHub:** [zuzu-gg](https://github.com/zuzu-gg)
