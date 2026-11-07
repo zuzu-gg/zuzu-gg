@@ -25,3 +25,13 @@ Esta es una tabla que contiene los badges de las herramientas y tecnologías que
 
 ---
 
+## 🏛️ Proyecto Destacado
+
+### Sitio Web Oficial - Museo Municipal
+
+- **Descripción:** Sitio web creado para dar a conocer el Museo Municipal y permitir que las personas encuentren fácilmente información sobre su historia, actividades, exposiciones y horarios.
+- **Tecnologías:** HTML5, CSS3, SCSS y JavaScript.
+- **Funcionalidades:** Cuenta con secciones sobre la historia del museo, eventos, galería de fotos, opiniones del público y ubicación.
+- **Enlaces:**
+  - [Ver repositorio en GitHub](https://github.com/polipopi/MuseoMunicipal_Web)
+  - [Visitar sitio web](https://polipopi.github.io/MuseoMunicipal_Web/)
